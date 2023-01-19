@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
-import TravelForm from 'forms/forms'
+import TravelForm from 'forms/userinputs'
 
 export default function Home() {
   return (
